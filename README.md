@@ -1,1 +1,1 @@
-# certwatchCertWatch: SSL certificate expiry tracker
+# certwatch
